@@ -1,4 +1,4 @@
-# Carro controlado  por inframevelho no Android.
+# Carro controlado  por infravernelho no Android.
 ### Controlado por Arduino + Android + Bluetooth!
 #### Tudo disponível aqui para seu conhecimento em lugar só!
 
