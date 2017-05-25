@@ -1,4 +1,4 @@
-# Carro controlado inframevelho no Android.
+# Carro controlado  por inframevelho no Android.
 ### Controlado por Arduino + Android + Bluetooth!
 #### Tudo disponível aqui para seu conhecimento em lugar só!
 
